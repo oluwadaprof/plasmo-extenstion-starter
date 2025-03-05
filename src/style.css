@@ -4,7 +4,4 @@
 @tailwind components;
 @tailwind utilities;
 
-#plasmo-shadow-container {
-  all: initial;
-  box-sizing: border-box;
-}
+
