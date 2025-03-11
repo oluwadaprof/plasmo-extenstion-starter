@@ -6,7 +6,9 @@
   "include": [
     ".plasmo/index.d.ts",
     "./**/*.ts",
-    "./**/*.tsx"
+    "./**/*.tsx",
+    "src",
+    "styled-system"
   ],
   "compilerOptions": {
     "paths": {
